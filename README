@@ -1,0 +1,10 @@
+# Sync an iTunes playlist to your android phone
+
+* Create a playlist (preferably named "Android") in iTunes. Put all the Music you want on your Android phone into this playlist
+* Connect your Android via USB and activate the Flash storage mode
+* run `ruby sync.rb`. This copies all items from the playlist to your Android (by default, it copies to /Volumes/droid/media/audio/itunes, as this is the setup on my computer
+
+# License
+
+Well, do whatever you want, just dont do any harm to people and dont blame me!
+
